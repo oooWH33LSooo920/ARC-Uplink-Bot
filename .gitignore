@@ -1,0 +1,19 @@
+# Ignore environment and secret files
+.env
+*.env
+__pycache__/
+.venv/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and log files
+*.pyc
+*.pyo
+*.log
+
+# Ignore other sensitive files
+secrets.json
+
+# Add more patterns as needed
