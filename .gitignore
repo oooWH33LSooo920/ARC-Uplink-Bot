@@ -16,4 +16,5 @@ Thumbs.db
 # Ignore other sensitive files
 secrets.json
 
-# Add more patterns as needed
+# Ignore auto-generated guild settings (contains server IDs)
+data/guild_settings.json

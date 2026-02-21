@@ -1,0 +1,56 @@
+[
+  {
+    "id": "exp001",
+    "name": "Crater Zone Sweep",
+    "description": "A high-risk expedition into the central crater zone. Expect heavy ARC presence and rare loot opportunities.",
+    "objectives": [
+      "Reach the crater centre",
+      "Eliminate ARC command unit",
+      "Collect crater samples",
+      "Extract successfully"
+    ],
+    "recommended_players": 3,
+    "difficulty": "Hard",
+    "rewards": ["2000 XP", "Rare Loot Crate x2", "Crater Core Sample"]
+  },
+  {
+    "id": "exp002",
+    "name": "Eastern Ridge Patrol",
+    "description": "Scout the eastern ridge for ARC activity and secure key intelligence data.",
+    "objectives": [
+      "Patrol 4 waypoints",
+      "Download intelligence from ARC terminal",
+      "Neutralise patrol units"
+    ],
+    "recommended_players": 2,
+    "difficulty": "Medium",
+    "rewards": ["1200 XP", "Intel Fragment x3", "Standard Gear Crate"]
+  },
+  {
+    "id": "exp003",
+    "name": "Underground Bunker Dive",
+    "description": "Descend into the pre-war bunker network and retrieve classified documents before ARC seals the exits.",
+    "objectives": [
+      "Find the bunker entrance",
+      "Navigate underground tunnels",
+      "Retrieve classified documents",
+      "Escape before lockdown"
+    ],
+    "recommended_players": 3,
+    "difficulty": "Hard",
+    "rewards": ["2500 XP", "Classified Document", "Elite Gear Crate x2"]
+  },
+  {
+    "id": "exp004",
+    "name": "Forest Sector Recon",
+    "description": "A lighter reconnaissance run through the forest sector to map ARC positions.",
+    "objectives": [
+      "Map 5 ARC positions",
+      "Photograph 3 ARC structures",
+      "Return to extraction"
+    ],
+    "recommended_players": 1,
+    "difficulty": "Easy",
+    "rewards": ["800 XP", "Recon Data", "Supply Crate"]
+  }
+]

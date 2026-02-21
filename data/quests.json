@@ -1,0 +1,118 @@
+[
+  {
+    "id": "q001",
+    "name": "Signal Disruption",
+    "description": "Locate and destroy 3 ARC signal towers in the crater zone.",
+    "objectives": [
+      "Destroy 3 ARC signal towers",
+      "Extract safely"
+    ],
+    "rewards": ["500 XP", "Signal Jammer Blueprint"],
+    "difficulty": "Medium"
+  },
+  {
+    "id": "q002",
+    "name": "First Contact",
+    "description": "Retrieve data cores from downed ARC units near the eastern ridge.",
+    "objectives": [
+      "Collect 5 ARC data cores",
+      "Deliver to extraction point"
+    ],
+    "rewards": ["300 XP", "ARC Core Fragment x2"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": "q003",
+    "name": "The Nest",
+    "description": "Eliminate the Matriarch queen guarding the underground nest.",
+    "objectives": [
+      "Enter the underground nest",
+      "Defeat the Matriarch",
+      "Extract with proof of kill"
+    ],
+    "rewards": ["1200 XP", "Matriarch Carapace", "Elite Gear Crate"],
+    "difficulty": "Hard"
+  },
+  {
+    "id": "q004",
+    "name": "Salvage Run",
+    "description": "Recover pre-war equipment from the abandoned industrial complex.",
+    "objectives": [
+      "Find the industrial complex",
+      "Collect 4 salvage crates",
+      "Survive to extraction"
+    ],
+    "rewards": ["450 XP", "Salvage Parts x10"],
+    "difficulty": "Medium"
+  },
+  {
+    "id": "q005",
+    "name": "Power Surge",
+    "description": "Activate emergency generators across the grid sector to restore comms.",
+    "objectives": [
+      "Activate generator A",
+      "Activate generator B",
+      "Activate generator C",
+      "Confirm uplink signal"
+    ],
+    "rewards": ["600 XP", "Tech Module", "Power Cell x5"],
+    "difficulty": "Medium"
+  },
+  {
+    "id": "q006",
+    "name": "Contamination Protocol",
+    "description": "Cleanse infected zones by deploying purge devices at contamination hotspots.",
+    "objectives": [
+      "Deploy purge device at hotspot 1",
+      "Deploy purge device at hotspot 2",
+      "Deploy purge device at hotspot 3"
+    ],
+    "rewards": ["700 XP", "Purge Module Blueprint"],
+    "difficulty": "Hard"
+  },
+  {
+    "id": "q007",
+    "name": "Supply Drop",
+    "description": "Secure a fallen supply pod before ARC units reach it.",
+    "objectives": [
+      "Locate the supply pod",
+      "Defend the pod for 90 seconds",
+      "Extract with supplies"
+    ],
+    "rewards": ["350 XP", "Random Supply Crate"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": "q008",
+    "name": "Probe Destruction",
+    "description": "Destroy ARC probes scanning the northern territories.",
+    "objectives": [
+      "Destroy 5 ARC probes in the north zone"
+    ],
+    "rewards": ["400 XP", "ARC Probe Fragment x3"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": "q009",
+    "name": "Tick Infestation",
+    "description": "Eliminate a swarm of Ticks that have overrun the old warehouse.",
+    "objectives": [
+      "Kill 20 Ticks",
+      "Destroy 2 Tick nests"
+    ],
+    "rewards": ["550 XP", "Tick Acid Gland x4"],
+    "difficulty": "Medium"
+  },
+  {
+    "id": "q010",
+    "name": "Wasp Queen",
+    "description": "Locate and eliminate the Wasp Queen in the forest sector.",
+    "objectives": [
+      "Find the Wasp hive",
+      "Kill 10 Wasps",
+      "Defeat the Wasp Queen"
+    ],
+    "rewards": ["900 XP", "Wasp Queen Stinger", "Rare Gear Crate"],
+    "difficulty": "Hard"
+  }
+]
